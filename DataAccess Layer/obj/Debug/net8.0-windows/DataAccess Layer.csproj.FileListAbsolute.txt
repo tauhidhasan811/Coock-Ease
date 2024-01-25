@@ -1,0 +1,62 @@
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Business Layer.deps.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Business Layer.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Business Layer.exe
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Presentation Layer.deps.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Presentation Layer.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Presentation Layer.exe
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\DataAccess Layer.exe
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\DataAccess Layer.deps.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\DataAccess Layer.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\DataAccess Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\DataAccess Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Business Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Presentation Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Business Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\Presentation Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess_Layer.Form1.resources
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\refint\DataAccess Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\DataAccess Layer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\DataAccess Layer\obj\Debug\net8.0-windows\ref\DataAccess Layer.dll

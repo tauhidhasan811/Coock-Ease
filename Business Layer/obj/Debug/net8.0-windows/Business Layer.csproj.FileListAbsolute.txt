@@ -1,0 +1,29 @@
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Business Layer.exe
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Business Layer.deps.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Business Layer.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Business Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Business Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business_Layer.Form1.resources
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\refint\Business Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\ref\Business Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Data Access Layer.deps.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Data Access Layer.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Data Access Layer.exe
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Data Access Layer.dll
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\bin\Debug\net8.0-windows\Data Access Layer.pdb
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\COOCK EASE PROJECT FINAL\Business Layer\obj\Debug\net8.0-windows\Business Layer.csproj.CopyComplete
